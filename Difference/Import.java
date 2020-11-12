@@ -1,7 +1,7 @@
 package Difference;
 
 public class Import {
-	public String id = "ÃÖ±è";
+	public String id = "ìµœë¯¼";
 	public int age = 25;
 	
 	public void show() {
