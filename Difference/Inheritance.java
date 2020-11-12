@@ -1,7 +1,7 @@
 package Difference;
 
 public class Inheritance {
-	public String id = "√÷±Ë";
+	public String id = "";
 	public int age = 25;
 	
 	public void show() {
